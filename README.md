@@ -158,3 +158,7 @@ await multiSig.submit(tokenContractAddress, 0, data);
 MultiSigWallet
 ├── owners[]              // Array of owner addresses
 ├── is
+
+contract : 0xEFa8B94C22e30715c4E491Dd0F4239EFD017084e
+
+<img width="1862" height="1015" alt="image" src="https://github.com/user-attachments/assets/59ac963d-c269-4d99-9dac-c563e507301b" />
